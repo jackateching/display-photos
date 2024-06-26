@@ -11,3 +11,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+
+![Screen Shot 2024-06-26 at 1 03 40 PM](https://github.com/jackateching/display-photos/assets/52744399/46702198-b40a-490b-885a-3ced69f626ae)
